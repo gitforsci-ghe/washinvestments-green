@@ -1,12 +1,12 @@
 ---
 title: WASH investments
 author:
-  - name: First Author
-    orcid: 0000-0000-0000-0000
+  - name: Leonardo Capitani 
+    orcid: 0000-0003-0292-5130
     corresponding: true
-    email: first@example.com
+    email: leocapi07@gmail.com
     affiliations:
-      - name: My University
+      - name: Eawag
   - name: Second Author
     orcid: 0000-0000-0000-0000
     email: second@example.com
