@@ -6,7 +6,7 @@ author:
     corresponding: true
     email: leocapi07@gmail.com
     affiliations:
-      - name: Eawag
+      - name: Eawag, Dubendorf
   - name: Second Author
     orcid: 0000-0000-0000-0000
     email: second@example.com
