@@ -1,5 +1,5 @@
 ---
-title: WASH investments
+title: "Report: data analysis"
 author:
   - name: Leonardo Capitani 
     orcid: 0000-0003-0292-5130
